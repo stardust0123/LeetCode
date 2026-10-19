@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/stardust0123/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/stardust0123/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/stardust0123/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
