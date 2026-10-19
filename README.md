@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/stardust0123/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -30,5 +31,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
