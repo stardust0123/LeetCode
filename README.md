@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stardust0123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/stardust0123/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/stardust0123/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stardust0123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/stardust0123/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
