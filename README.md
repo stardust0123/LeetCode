@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/stardust0123/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/stardust0123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/stardust0123/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/stardust0123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/stardust0123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/stardust0123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
