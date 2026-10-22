@@ -1,4 +1,13 @@
 class Solution(object):
+    
+    def check(self, s, left, right): 
+        while left < right:
+            if s[left] != s[right]: 
+                return False 
+            left += 1
+            right -= 1
+        return True
+
     def validPalindrome(self, s):
         """
         :type s: str
@@ -17,13 +26,7 @@ class Solution(object):
             right -= 1
         return True
 
-    def check(self, s, left, right): 
-        while left < right:
-            if s[left] != s[right]: 
-                return False 
-            left += 1
-            right -= 1
-        return True
+    
 
     
         
