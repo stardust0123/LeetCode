@@ -3,8 +3,8 @@
  * @return {number}
  */
 var fib = function(n) {
-    if (n === 0) {
-        return 0;
+    if (n <= 1) {
+        return n;
     }
 
     let first_num = 0; 
