@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/stardust0123/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/stardust0123/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/stardust0123/LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/stardust0123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/stardust0123/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/stardust0123/LeetCode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/stardust0123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/stardust0123/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/stardust0123/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
@@ -100,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/stardust0123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/stardust0123/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/stardust0123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
