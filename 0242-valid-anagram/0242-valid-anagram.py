@@ -7,10 +7,10 @@ class Solution(object):
         """
 # (1) check length of 2 strings, (2) after that count the frequencies of characters in two strings
 # (3) initialize hash map (?)
+# (4) compare 
 
 
-        if len(s) != len(t):
-            return False
+
 
         count_s = { }
         count_t = { }
