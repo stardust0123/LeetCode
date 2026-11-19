@@ -9,9 +9,9 @@ class Solution(object):
 # (3) initialize hash map (?)
 # (4) compare 
 
-
-
-
+        if len(s) != len(t):
+            return False
+            
         count_s = { }
         count_t = { }
 
